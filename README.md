@@ -1,4 +1,4 @@
-# Huellas del FOS (Flutter)
+# Huellas Delfos (Flutter)
 
 Proyecto Flutter con 13 pantallas replicadas desde las capturas. Incluye arquitectura feature‑first, navegación con `go_router`, configuración de conexión, offline‑first + sync, multimedia (imágenes, audio y firma) y wakelock.
 
